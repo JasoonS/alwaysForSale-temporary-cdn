@@ -1,1 +1,13 @@
-{"images":["QmQEKPX4QQms5zLxgZXM7iFPa2XB7JeZkYU5FL9iMymuMZ","QmQYPCHUWEpdzgxDWY87zfvVsJ6d1GAYKGEMogEThaqbEQ","QmUVRx62KCUKCxVADwoiCJss41mRPRnUfp4oTdQZLPvs9G"],"urls":["http://google.com","https://wildcards.world","https://wildcards.world"],"prices":[]}
+{
+  "images": [
+    "QmYVdHsCWFJ5gGaVW3r4zeePJ1i3hwrBtygjd6WTAzaPfo",
+    "QmS3NPHhyuqACXw1f49nEJZyUjA2VUTi239u96ijVjHJfm",
+    "QmUVRx62KCUKCxVADwoiCJss41mRPRnUfp4oTdQZLPvs9G"
+  ],
+  "urls": [
+    "http://google.com",
+    "https://wildcards.world",
+    "https://wildcards.world"
+  ],
+  "prices": []
+}
